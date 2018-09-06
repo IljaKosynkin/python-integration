@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  python-integration
+
+  Created by Ilja Kosynkin on 04/09/2018.
+  Copyright © 2018 Syllogismobile. All rights reserved.
+*/
+
+"loading_failed" = "Loading failed.\nPress the button to reload.";
+"reload" = "Reload";
